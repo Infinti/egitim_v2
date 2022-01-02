@@ -1,0 +1,16 @@
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.exe
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.deps.json
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.runtimeconfig.json
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.runtimeconfig.dev.json
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\ref\operatorler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\bin\Debug\net5.0\operatorler_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.csprojAssemblyReference.cache
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.AssemblyInfoInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.AssemblyInfo.cs
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.csproj.CoreCompileInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\ref\operatorler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\operatorler_pat\obj\Debug\net5.0\operatorler_pat.genruntimeconfig.cache
