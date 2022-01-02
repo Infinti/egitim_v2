@@ -1,0 +1,16 @@
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.exe
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.deps.json
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.runtimeconfig.json
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.runtimeconfig.dev.json
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\ref\tip_don_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\bin\Debug\net5.0\tip_don_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.csprojAssemblyReference.cache
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.AssemblyInfoInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.AssemblyInfo.cs
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.csproj.CoreCompileInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\ref\tip_don_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\tip_don_pat\obj\Debug\net5.0\tip_don_pat.genruntimeconfig.cache
