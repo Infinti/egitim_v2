@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "degiskenler_pat/1.0.0": {
+        "runtime": {
+          "degiskenler_pat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "degiskenler_pat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

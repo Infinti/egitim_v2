@@ -1,0 +1,16 @@
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.exe
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.deps.json
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.runtimeconfig.json
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.runtimeconfig.dev.json
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\ref\degiskenler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\bin\Debug\net5.0\degiskenler_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.csprojAssemblyReference.cache
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.AssemblyInfoInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.AssemblyInfo.cs
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.csproj.CoreCompileInputs.cache
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\ref\degiskenler_pat.dll
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.pdb
+C:\Users\Infinti\Desktop\egitim_v2\degiskenler_pat\obj\Debug\net5.0\degiskenler_pat.genruntimeconfig.cache
